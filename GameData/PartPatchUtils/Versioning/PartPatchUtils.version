@@ -1,0 +1,27 @@
+{
+	"NAME":"Part Patch Utils",
+	"DOWNLOAD":
+	"https://github.com/CharleRoger/PartPatchUtils/releases",
+	"URL":
+	"https://raw.githubusercontent.com/CharleRoger/PartPatchUtils/main/GameData/PartPatchUtils/Versioning/PartPatchUtils.version",
+	"CHANGE_LOG_URL":"https://raw.githubusercontent.com/CharleRoger/PartPatchUtils/main/README.md",
+	"GITHUB":
+	{
+		"USERNAME":"CharleRoger",
+		"REPOSITORY":"https://github.com/CharleRoger/PartPatchUtils",
+		"ALLOW_PRE_RELEASE":true
+	},
+	"VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":12,
+		"PATCH":5
+	}
+}
