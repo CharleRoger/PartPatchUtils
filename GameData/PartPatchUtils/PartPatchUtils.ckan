@@ -1,0 +1,9 @@
+identifier: PartPatchUtils
+$kref: '#/ckan/github/CharleRoger/PartPatchUtils'
+$vref: '#/ckan/ksp-avc'
+---
+identifier: PartPatchUtils
+$kref: '#/ckan/spacedock/4397'
+$vref: '#/ckan/ksp-avc'
+depends:
+  - name: ModuleManager
